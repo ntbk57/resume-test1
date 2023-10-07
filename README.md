@@ -1,2 +1,5 @@
 # resume-test1
-resume-test1
+- Привет!
+- Это пример резюме, которое у меня получилось!
+- [Смотрите сами] https://ntbk57.github.io/resume-test1/
+- Я старался!
